@@ -42,3 +42,13 @@ Can be batch or Online learning
 **Overfitting**:  Good performance in training data however, performs over generalization on test data. May result due to noise, small training set. Model too complex. 
 
 **Underfitting**: Model too simple and cannot understand the underlying data structure. Inaccurate predictions even on training data sets. 
+
+
+
+https://github.com/Laxmi-Dhungel/Machine-learning/assets/154451345/b6bbe2a7-b66d-488d-ac2e-7334b501ccb7
+
+
+
+
+
+
